@@ -98,6 +98,11 @@ main {
 	height: 200px;
 	background: hsl(214, 97%, 23%, 0.2);
 }
+.home-renovation {
+	width: 100%;
+	height: 200px;
+	background: hsl(214, 97%, 23%, 0.3);
+}
 
 /** footer **/
 footer {
