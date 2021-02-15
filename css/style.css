@@ -108,6 +108,11 @@ main {
 	height: 200px;
 	background: hsl(214, 97%, 23%, 0.4);
 }
+.home-property-agent {
+	width: 100%;
+	height: 200px;
+	background: hsl(214, 97%, 23%, 0.5);
+}
 
 /** footer **/
 footer {
