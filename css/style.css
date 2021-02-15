@@ -44,12 +44,6 @@ ul, li {
 	display: flex;
 }
 
-@media screen and (max-width: 1000px) {
-	.logo {
-		width: 114px;
-		height: 114px;
-	}
-}
 @media screen and (max-width: 700px) {
 	.mv {
 		height: 600px;
